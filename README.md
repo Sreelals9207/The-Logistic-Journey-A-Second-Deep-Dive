@@ -23,4 +23,4 @@ Welcome to my second deep dive into the world of classification! This project ex
 - **Learning Opportunity:** This project serves as a valuable exercise for anyone interested in data analysis, providing insights into the logistic regression process and the importance of robust data exploration.
 
 
-![Heart Attack Prediction Model](https://github.com/yourusername/repository-name/raw/main/path/to/image.png)
+
