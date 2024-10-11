@@ -21,3 +21,6 @@ Welcome to my second deep dive into the world of classification! This project ex
 - **Synthetic vs. Real Data:** While synthetic data can be useful for testing models, it may not capture the complexities of real-world scenarios. Be cautious when generalizing findings to actual data.
 
 - **Learning Opportunity:** This project serves as a valuable exercise for anyone interested in data analysis, providing insights into the logistic regression process and the importance of robust data exploration.
+
+
+![Heart Attack Prediction Model](https://github.com/yourusername/repository-name/raw/main/path/to/image.png)
