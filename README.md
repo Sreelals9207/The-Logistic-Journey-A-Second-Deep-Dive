@@ -38,4 +38,14 @@ Welcome to my second deep dive into the world of classification! This project ex
 
 ## least five features with low odds ratio
 
-![Heart Attack Prediction Model]()
+![Heart Attack Prediction Model](https://github.com/Sreelals9207/The-Logistic-Journey-A-Second-Deep-Dive/blob/main/download%202.png?raw=true)
+
+1. **Pain Type: Typical Angina (0.334436)**: With an odds ratio of approximately 0.33, those experiencing typical angina are about 66.6% less likely to have a heart attack compared to those without this type of pain. It seems that typical angina is not the villain in this story after all!
+
+2. **Exercise Induced Angina (Exng) (0.382867)**: An odds ratio of around 0.38 indicates that individuals with exercise-induced angina have a 61.7% lower chance of experiencing a heart attack. Who knew that a little workout pain could mean less heart risk?
+
+3. **Sex: Male (0.402119)**: Males show an odds ratio of about 0.40, suggesting they are 59.8% less likely to have a heart attack compared to females in this dataset. This challenges some common assumptions about gender and heart disease—talk about a plot twist!
+
+4. **Age (0.975982)**: With an odds ratio of approximately 0.98, each additional year of age is associated with a 2.4% decrease in heart attack risk. It seems that age is not just a number; in this case, it might be a number with a bit of a friendly discount!
+
+5. **Blood Pressure (BP) (0.983652)**: The odds ratio of around 0.98 suggests that as blood pressure increases, the likelihood of a heart attack decreases by about 1.7%. While this might sound counterintuitive, it highlights the need for a nuanced understanding of how various factors interplay.
