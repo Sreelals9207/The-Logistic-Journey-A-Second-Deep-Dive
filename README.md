@@ -24,3 +24,4 @@ Welcome to my second deep dive into the world of classification! This project ex
 
 
 
+![Heart Attack Prediction Model]()
