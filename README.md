@@ -24,4 +24,4 @@ Welcome to my second deep dive into the world of classification! This project ex
 
 
 
-![Heart Attack Prediction Model]()
+![Heart Attack Prediction Model](https://github.com/Sreelals9207/The-Logistic-Journey-A-Second-Deep-Dive/blob/main/download.png?raw=true)
