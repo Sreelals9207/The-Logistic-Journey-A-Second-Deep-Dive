@@ -49,3 +49,7 @@ Welcome to my second deep dive into the world of classification! This project ex
 4. **Age (0.975982)**: With an odds ratio of approximately 0.98, each additional year of age is associated with a 2.4% decrease in heart attack risk. It seems that age is not just a number; in this case, it might be a number with a bit of a friendly discount!
 
 5. **Blood Pressure (BP) (0.983652)**: The odds ratio of around 0.98 suggests that as blood pressure increases, the likelihood of a heart attack decreases by about 1.7%. While this might sound counterintuitive, it highlights the need for a nuanced understanding of how various factors interplay.
+
+## Conclusion
+
+Note: The reported odds ratios may be surprising, but please keep in mind that this is synthetic data. While the data has been thoroughly explored and the model trained effectively, the nature of the dataset can lead to unexpected results. As data scientists, it's crucial to maintain a critical perspective and conduct our own analyses to draw informed conclusions. This approach is essential for deep analysis.
