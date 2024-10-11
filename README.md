@@ -22,7 +22,7 @@ Welcome to my second deep dive into the world of classification! This project ex
 
 - **Learning Opportunity:** This project serves as a valuable exercise for anyone interested in data analysis, providing insights into the logistic regression process and the importance of robust data exploration.
 
-## Top five high odds ratios.
+## Top five features with high odds ratio
 
 ![Heart Attack Prediction Model](https://github.com/Sreelals9207/The-Logistic-Journey-A-Second-Deep-Dive/blob/main/download.png?raw=true)
 
@@ -35,3 +35,7 @@ Welcome to my second deep dive into the world of classification! This project ex
 4. **Pain Type: Non-Anginal Pain (1.624451)**: The odds ratio of approximately 1.62 suggests that individuals reporting non-anginal pain are about 62.4% more likely to have a heart attack. This highlights a significant association between this pain type and heart attack risk.
 
 5. **Sex: Female (2.504122)**: With the highest odds ratio of about 2.50, being female is associated with more than double the odds (150.4%) of having a heart attack compared to males. This finding emphasizes the critical need to consider gender differences in heart disease assessments.
+
+## least five features with low odds ratio
+
+![Heart Attack Prediction Model]()
