@@ -1,7 +1,6 @@
 # The-Logistic-Journey-A-Second-Deep-Dive
 ## Project File
-
-🔗 [Download the Project File](https://github.com/yourusername/repository-name/blob/main/path/to/project_file.py)  
+https://github.com/Sreelals9207/The-Logistic-Journey-A-Second-Deep-Dive/blob/main/second%20dive.ipynb
 
 *(Replace the link with the actual path to your project file.)*
 
